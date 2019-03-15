@@ -1,0 +1,18 @@
+#desiredSalary{
+    display: inline-block;
+}
+
+#birthday{
+    display: inline-block;
+    
+}
+
+div{
+    position: relative;
+    margin: 7px;
+}
+
+button{
+    position: relative;
+    left: 290px;
+}
